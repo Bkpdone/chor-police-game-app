@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #2C3E50;
+  color: #ECF0F1;
+  font-family: 'Press Start 2P', cursive;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+button:hover {
+  opacity: 0.9;
+  transform: scale(1.05);
+}
