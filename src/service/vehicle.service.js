@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = "http://localhost:7000/api/v1/vehicles";
+const BASE_URL = "https://chor-police-game-backend.onrender.com/api/v1/vehicles";
 
 export const getAllVehicles = async () => {
   try {

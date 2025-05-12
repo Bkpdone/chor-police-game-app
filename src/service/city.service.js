@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = "http://localhost:7000/api/v1/cities";
+const BASE_URL = "https://chor-police-game-backend.onrender.com/api/v1/cities";
 
 export const getAllCities = async () => {
   try {
